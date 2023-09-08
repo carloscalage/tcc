@@ -1,0 +1,350 @@
+[
+  {
+    "question": "O que é o conselho diretor?",
+    "answer": "O conselho diretor é um órgão angariador de recursos, supervisor da gestão econômico-financeira e responsável principal pelas relações entre a Universidade e a Comunidade",
+    "chapter": "t2c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Quanto ganha o conselho diretor?",
+    "answer": "Os membros do Conselho Diretor não terão direito a remuneração, podendo, entretanto, receber jeton, diárias e transporte, quando necessário, conforme dispuser o Regimento da Fundação",
+    "chapter": "t2c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Quem faz parte do conselho universitário?",
+    "answer": "Integram o Conselho Universitário: I o Reitor, seu Presidente; II o Vice-Reitor; III os Pró-Reitores; IV os Diretores das Unidades Universitárias; V dois representantes dos órgãos de Segundo Grau; VI dois representantes de cada classe da carreira do magistério; VII dois representantes dos auxiliares de ensino; VIII dois coordenadores do Conselho Coordenador do Ensino da Pesquisa e da Extensão ; IX três representantes designados pelo Conselho Diretor da Fundação, dentre nomes que lhe sejam indicados pela comunidade;X representação Discente, na forma da lei; XI sete representantes do servidores Técnico-Administrativos.",
+    "chapter": "t2c2",
+    "complexity": "medium"
+  },
+  {
+    "question": "Quanto tempo dura o mandato do Conselho Coordenador do Ensino da Pesquisa e da Extensão?",
+    "answer": "Os mandatos dos conselheiros previsto nos itens III e IV terão o prazo de 2 dois anos, podendo ser reconduzidos e os dos previstos no item V, coincidirão com o prazo de mandato eleitoral discente.",
+    "chapter": "t2c3",
+    "complexity": "short"
+  },
+  {
+    "question": "O que é necessário para marcar as sessões do conselho superior?",
+    "answer": "A convocação para as sessões ordinárias e extraordinárias será feita com antecedência mínima de 24(vinte e quatro) horas pela respectiva Secretaria, mediante ofício entregue pessoalmente, contendo a matéria da ordem do dia e cópia da ata da sessão anterior.",
+    "chapter": "t2c4",
+    "complexity": "short"
+  },
+  {
+    "question": "Quanto tempo os relatores tem para lavratura de seus pareceres?",
+    "answer": "Os relatores terão o prazo máximo de 20(vinte) dias para lavratura de seus pareceres, quando obrigatoriamente deverão devolver os processos, a fim de que sejam tomadas as providências cabíveis a espécies",
+    "chapter": "t2c4",
+    "complexity": "short"
+  },
+  {
+    "question": "Qual a atribuição do Secretário dos Conselhos Superiores da Universidade",
+    "answer": "I processar o expediente dos Conselhos; II redigir e enviar a correspondência; III organizar a ordem do dia das sessões; IV expedir e fazer entregar as convocações com a antecedência mínima prevista neste Regimento; V organizar e manter em ordem os arquivos; VI secretariar as sessões; VII assessorar as Comissões; VIII lavrar as atas; IX enviar as decisões para publicação no Boletim da Universidade; X providenciar na publicação da ata; XI exercer as demais atribuições conexas com suas funções.",
+    "chapter": "t2c5",
+    "complexity": "short"
+  },
+  {
+    "question": "O que acontece quando há vacância no cargo de reitor e vice-reitor",
+    "answer": "Vagando ambos os cargos, a Reitoria será exercida pelo professor mais antigo na carreira do magistério , dentre os membros do Conselho Universitário e, em caso de idêntica antigüidade, pelo mais idoso, o qual procederá na forma do artigo anterior.",
+    "chapter": "t2c6",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais as atribuições da Pró-Reitoria de Graduação?",
+    "answer": "Art.65 – A Pró-Reitoria de Graduação, exercida pelo Pró-Reitor respectivo, compreende os órgãos responsáveis pelos serviços gerais de natureza escolar e assistência estudantil, cabendo-lhe entre outras atribuições, as seguintes: I Executar a política definida pelo Conselho Coordenador do Ensino da Pesquisa e da Extensão, em matéria de graduação; II promover a integração das atividades de ensino de graduação; III orientar e coordenar as atividades acadêmicas de graduação, respeitada a competência de outros órgãos; IV praticar os atos acadêmicos vinculados a graduação; V proceder a coleta sistemática e permanente de dados capazes de permitir a avaliação quantitativa e qualitativa do ensino de graduação;l VI manter estreita vinculação com os demais órgãos da Universidade, fornecendo-lhes subsídios para o desenvolvimento de suas atividades; VII elaborar e coordenar estudos especializados, no âmbito de graduação; VIII elaborar e manter atualizado o catálago dos cursos de graduação IX tomar providências que facilitem a administração de recursos orçamentários postos a disposição do ensino de graduação; X elaborar e manter atualizado o cadastro do corpo docente da Universidade; XI opinar sobre admissão de docentes; XII propor ao Reitor a realização de concursos para provimento do magistério superior; XIII programar e organizar os atos de colação de grau; XIV organizar e manter atualizados os registros dos cursos e atividades escolares; XV manter o serviço central de matrícula, com cadastro da vida escolar do aluno;XVI manter e aperfeiçoar o setor de registro de diplomas; XVII incentivar a execução de programas que visem à formação cívica nos cursos de graduação; XVIII elaborar, anualmente, o calendário escolar, em conjunto com a Pró-Reitoria de Pesquisa e Pós-Graduação; XIX executar a política definida pelos órgãos superiores na área de assistência à comunidade universitária; XX propiciar os meios indispensáveis à realização do bem estar da comunidade universitária;XXI distribuir e controlar as verbas destinadas aos órgãos estudatís; XXII estabelecer normas, convocar e supervisionar eleições dos representantes do corpo discente para os órgãos de deliberação coletiva da instituição; XXIII coordenar e manter contato com a representação estudantil naquilo que não for da competência dos mesmos; XXIV organizar e supervisionar os serviços de alojamento, alimentação e recreação do corpo discente; XXV promover a distribuição de bolsas-trabalho, estágios e empregos ao corpo discente; XXVI manter o cadastro de oportunidades de estágios na Universidade empresas e órgãos públicos; XXVII prestar informações e divulgar entre o corpo discente as oportunidades de emprego; XXVIII manter o cadastro de candidatos a bolsas, estágios e empregos; XXIX administrar o plano de benefícios aos estudantes carentes; XXX apurar as condições sócio-econômicas dos estudantes.",
+    "chapter": "t2c6",
+    "complexity": "long"
+  },
+  {
+    "question": "O que é um departamento dentro da universidade?",
+    "answer": "Os Departamentos, reunidos ou não em unidades mais amplas, constituem a menor fração da estrutura universitária para todos os efeitos de organização administrativa, didático-científica e de distribuição de pessoal.",
+    "chapter": "t3c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais as atribuilções de um departamento?",
+    "answer": "§ 1º – Ao Departamento competirá, especialmente: a) eleger em votação secreta, os integrantes das listas tríplices de que serão escolhidos os respectivos chefe e subchefe; b) elaborar os seus planos de trabalho e a parte que lhe competir no plano anual de atividades universitárias; c) atribuir encargos de ensino, pesquisa e extensão ao pessoal docente que o integre, respeitadas as especializações; d) coordenar o trabalho do pessoal docente, visando a unidade e eficiência do ensino, da pesquisa e extensão; e) adotar ou sugerir, quando for o caso, as providências de ordem didática, científica e administrativa que julgar aconselháveis a boa marcha de seus trabalhos; f) elaborar a lista de ofertas das disciplinas de sua área de atuação, com seus respectivos planos de ensino e programas de concursos docentes; g) aprovar os projetos de pesquisa e os planos de concursos de pós-graduação, de especialização, aperfeiçoamento e extensão que se situem no seu âmbito de atuação; h) adotar providências para o constante aperfeiçoamento de seu pessoal docente; i) emitir pareceres em assuntos de sua competência; j) propor pelo voto de 2/3 (dois terços) de seus membros o afastamento ou a destituição do respectivo chefe; l) propor a admissão do pessoal docente, observadas as disposições estatutárias e regimentais pertinentes; m) todo o pessoal docente participará das reuniões dos Departamentos obrigatoriamente; n) cada Departamento terá um representante discente, matriculado pelo menos em uma de suas disciplinas.",
+    "chapter": "t3c1",
+    "complexity": "medium"
+  },
+  {
+    "question": "O que é um instituto?",
+    "answer": "Os institutos são unidades que atuam no domínio dos conhecimentos fundamentais.",
+    "chapter": "t3c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais são os institutos da UFPel?",
+    "answer": "os Institutos da Universidade Federal de Pelotas: I Instituto de Letras e Artes; II Instituto de Biologia; III Instituto de Ciências Humanas; IV Instituto de Física e Matemática; V Instituto de Química e Geociências; VI Instituto de Sociologia e Política.",
+    "chapter": "t3c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais são as faculdades e escolas da UFPel?",
+    "answer": "as Faculdades e Escolas da Universidade: I Faculdade de Agronomia Eliseu Maciel; II Faculdade de Odontologia; III Faculdade de Direito; IV Faculdade de Veterinária; V Faculdade de Ciências Domésticas; VI Faculdade de Medicina; VII Faculdade de Educação; VIII Faculdade de Arquitetura e Urbanismo; IX Faculdade de Engenharia Agrícola; X Faculdade de Nutrição; XI Faculdade de Meteorologia; XII Faculdade de Enfermagem e Obstetrícia; XIII Conservatório de Música; XIV Escola Superior de Educação Física;",
+    "chapter": "t3c3",
+    "complexity": "medium"
+  },
+  {
+    "question": "Quais as atribuições do conselho departamental?",
+    "answer": "Compete ao Conselho Departamental : I elaborar o Regimento da Unidade, encaminhando-o ao Conselho Coordenador do Ensino da Pesquisa e da Extensão, para parecer, e ao Conselho Universitário para aprovação; II apreciar os Regimentos dos Departamentos e órgãos auxiliares, encaminhados pela Direção; III opinar sobre convênios e aceitação de legados ou doações em benefício da Unidade; IV coordenar os planos de trabalho propostos pelos Departamentos; V sugerir medidas e providências relativas ao ensino e à pesquisa; VI propor, mediante voto secreto de 2/3 (dois terços) de seus integrantes, ao Conselho Universitário , para consideração da autoridade superior a destituição do Diretor e ou do Vice-Diretor; VII pronunciar-se sobre qualquer assunto relativo à organização universitária e aos interesses da Unidade ; VIII elaborar, com base na manifestação dos Departamentos, dos recursos orçamentários da Unidade , para apreciação dos órgãos superiores da Unidade; IX promover a distribuição entre os Departamentos, dos recursos orçamentários, instalações, material e pessoal auxiliar de que dispuser a Unidade ; X deliberar sobre as propostas dos Departamentos; XI apreciar, na área de sua competência e em primeira instância, os recursos do Departamento ; XII opinar sobre criação, fusão ou desdobramento de Departamentos; XIII emitir normas unificadoras sobre funcionamento dos Departamentos e sobre o desempenho das funções de chefia; XIV deliberar sobre a prestação de contas do Diretório Acadêmico; XV assessorar o Diretor em todas as tarefas de organização e direção da Unidade ; XVI desempenhar todas as atribuições que lhe forem cometidas por lei; XVII conferir diploma de habilitação profissional em reunião com o respectivo Colegiado de Curso, sob a presidência do Diretor ou Coordenador do Curso; XVIII aprovar, anualmente, as indicações dos Departamentos relativos às designações dos docentes responsáveis por disciplinas; XIX aplicar as sanções disciplinares de sua competência; XX promover o desenvolvimento da pesquisa departamental e a sua articulação com o ensino, utilizando todos os meios e recursos necessários à consecução de seus fins; XXI propor motivadamente à Direção da Unidade a admissão, demissão e remanejamento de auxiliares de ensino e demais funcionários, dos Departamentos por proposta destes; XXII aprovar o plano de aplicação de recursos elaborados pelos Departamentos , referentes às verbas liberadas pela Direção; XXIII organizar os horários das provas finais e compatibilizar os horários de avaliações.",
+    "chapter": "t3c4",
+    "complexity": "long"
+  },
+  {
+    "question": "O que são orgãos suplementares?",
+    "answer": "São Órgãos Suplementares, sem prejuízo de outros que venham a ser criados, ou incorporados, nos termos do artigo 15 do Decreto nº 65.881, de 16 de dezembro de 1969: I a Estação Experimental de Piratini; II a Estação Experimental da Palma; III o Centro de Treinamento do Sul IV a Gráfica Universitária; V a Biblioteca Central; VI o Museu; VII a Casa para Estudante; VIII o Refeitório Estudantil; IX o Centro Esportivo; X o Núcleo de Processamento de Dados; XI o Sistema de Apropriação de custos; XII o Coral da Universidade; XIII o Biotério; XIV o Centro de  Educativa; XV o Centro Rural Universitário de Treinamento e Ação Comunitária XVI o Teatro Universitário; XVII a Colônia de Férias; XVIII a Estação Agro-Climatológica; XIX o Hospital de Clínicas Veterinária.",
+    "chapter": "t4c1",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como a UFPel escolhe os cursos?",
+    "answer": "A Universidade Federal de Pelotas, manterá cursos de modalidades diversas, quanto à natureza e conteúdo de seus estudos, correspondendo a profissões reguladas em lei ou em obediência às solicitações do mercado de trabalho.",
+    "chapter": "t5c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Como é dividido o curso de graduação?",
+    "answer": "Cada curso de duração regular compreenderá um primeiro ciclo de formação básica e um segundo ciclo de formação profissional.",
+    "chapter": "t5c2",
+    "complexity": "short"
+  },
+  {
+    "question": "É possível um aluno de outro curso ingressar no mestrado?",
+    "answer": "I o mesmo curso poderá receber candidatos provenientes de cursos de graduação diversos, desde que apresentem afinidades com o setor de estudos a ser desenvolvidos;",
+    "chapter": "t5c3",
+    "complexity": "short"
+  },
+  {
+    "question": "O que é um curso de extensão?",
+    "answer": "Os cursos de extensão serão oferecidos ao público geral, com propósito de divulgar conhecimento e técnicas de trabalho, podendo desenvolver-se em nível universitário ou não, de acordo com o seu conteúdo e o sentido que assumam em cada caso.",
+    "chapter": "t5c4",
+    "complexity": "short"
+  },
+  {
+    "question": "O que é um curso de especialização?",
+    "answer": "Os cursos de especialização e aperfeiçoamento, ministrados sem caráter permanente pela Universidade, têm objetivo ténico-profissional, sem abranger o campo total do saber em que se insere a especialidade e se destinam ao treinamento de graduados de nível superior em setores de que se compõe um ramo profissional ou científico.",
+    "chapter": "t5c5",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais as atribuições dos colegiados de cursos?",
+    "answer": "As atribuições dos Colegiados de Cursos: I coordenar e supervisionar o curso; II receber reclamações e recursos na área do ensino; III apreciar os pedidos de transferência e estudar os casos de equivalência de disciplinas de outras Universidades ou Unidades de Ensino para efeitos de transferência; IV elaborar ou rever o currículo, submetendo-o ao Conselho Coordenador do Ensino da Pesquisa e da Extensão; V propor ao Conselho Coordenador do Ensino da Pesquisa e da Extensão, a organização curricular dos cursos correspondentes; VI emitir parecer sobre os processos relativos a aproveitamento de estudos e adaptação, mediante requerimento dos interessados; VII assegurar a articulação entre o ciclo básico e o ciclo profissional do curso correspondente; VIII estabelecer normas para o desempenho dos professores orientadores; IX emitir parecer sobre recursos ou representações de alunos sobre matéria didática; X aprovar o Plano de Ensino das disciplinas do curso correspondente; XI aprovar a lista de ofertas das disciplinas do curso correspondente para cada período letivo; XII propor aos Departamentos correspondentes os horários mais convenientes para as disciplinas de seu interesse; XIII elaborar seu Regimento, para aprovação pelo Conselho Coordenador do Ensino da Pesquisa e da Extensão.",
+    "chapter": "t5c6",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como a universidade estimula a pesquisa?",
+    "answer": "A Universidade incentivará a pesquisa por todos os meios a seu alcance, entre os quais os seguintes: I a concessão de bolsas especiais de pesquisa em categorias diversas, principalmente nas de iniciação cientifica; II formação de pessoal em cursos de pós-graduação, próprio ou de outros instituições nacionais e estrangeiras; III concessão de auxílios para execução de projetos específicos; IV realização de convênios com entidades públicas ou privadas, nacionais ou estrangeiras; V intercâmbio com outras instituições científicas, estimulando os contatos entre o professores e o desenvolvimento de projetos comuns. VI divulgação dos resultados das pesquisas realizadas em suas Unidades; VII promoção de congressos, simpósios e seminários, para estudo e debate de temas científicos, bem como participação em iniciativas semelhantes de outras instituições.",
+    "chapter": "t5c7",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como entro em um curso de graduação da UFPel?",
+    "answer": "A admissão aos cursos de graduação se fará mediante concurso Vestibular, aberto a quantos hajam concluído o segundo grau ou estudos equivalentes.",
+    "chapter": "t6c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais os requisitos para matrícula em um curso de pós-graduação?",
+    "answer": "Para matricula nos cursos de pós-graduação, além de diploma de curso de graduação exigido por lei, o Conselho Coordenador do Ensino e Pesquisa estabelecera normas, segundo as quais prevaleçam requisitos que assegurem rigorosa seleção intelectual dos candidatos.",
+    "chapter": "t6c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Como faço minha matrícula?",
+    "answer": "As matriculas serão efetuadas na Pró–Reitoria de Graduação e Assistência, antes de cada período letivo, em datas pré-fixadas pela Reitoria obedecendo ao seguinte sistema: I matriculas por disciplinas e/ou atividades, semestrais; II ordenação curricular por meio de um mínimo de pré-requisitos; III controle de integralização curricular através de créditos, conforme dispõe o presente Regimento; IV matricula, de avaliação e registros centralizados; V a escolha do aluno será auxiliada por professor orientador tomando por. base as Listas de Ofertas aprovadas pelo Colegiado de Curso correspondente; VI além de outros elementos que venham a revelar-se necessários, as listas conterão: a) o código e o enunciado de cada disciplina; b) cursos ou ciclos a que se destina; c) pré-requisitos mínimos ou co-requisitos; d) número de créditos respectivos; e) horário das respectivas atividades escolares; f) número máximo e mínimo, de vagas em cada disciplina; VII haverá limites mínimos e máximos para as disciplinas fixadas pelos Colegiados de Curso; VIII O Colegiado de Curso anulará a oferta de qualquer disciplina, que em determinado período não alcance a matrícula de um número mínimo, fixado em cada caso pelo Colegiado de Curso. IX não serão permitidas matriculas em disciplinas de horário total ou parcialmente coincidentes.",
+    "chapter": "t6c2",
+    "complexity": "medium"
+  },
+  {
+    "question": "O que é trancamento de matrícula?",
+    "answer": "O aluno poderá trancar a matricula em uma ou mais disciplinas, no decorrer do primeiro terço do período letivo, obedecido o limite mínimo de créditos estabelecidos para o curso, por semestre.",
+    "chapter": "t6c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Quanto tempo posso ficar com a matrícula trancada?",
+    "answer": "Autorizado o trancamento geral da matricula, por um prazo que não poderá exceder a dois anos, o aluno terá assegurado, no retorno, o direito a matrícula, no mesmo curso inicial , bastando, para isso, requerer readmissão nos prazos estabelecidos",
+    "chapter": "t6c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Como funcionam as vagas para reopção de curso",
+    "answer": "Após o término de cada semestre do ciclo básico a Pró-Reitoria de Graduação e Assistência fará levantamento do número de vagas existentes, em cada Curso e que poderão ser oferecidas a alunos interessados na reopção",
+    "chapter": "t6c3",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais os casos de transferência?",
+    "answer": "Ressalvados os casos previstos em lei, de transferência compulsória, a Universidade através do Colegiado de Curso respectivo, poderá aceitar a transferência de alunos provenientes de cursos de graduação idênticos ou equivalentes aos seus, inclusive do estrangeiro. § 1º – A transferência voluntária ficará subordinada à existência de vaga no curso pleiteado. § 2º – A transferência voluntária somente será efetivada antes do início de cada semestre letivo, e dependerá: I de requerimento do interessado; protocolado na Pró-Reitoria de Graduação e Assistência, na época prevista no Calendário Escolar da Universidade; II da existência de vaga no curso pretendido atestada pela Pró-Reitoria de Graduação, atendidas as reopções dos alunos da UFPel III de parecer favorável do Colegiado de Curso, IV da satisfação completa das exigências relativas à documentação pertinente a transferência, constante, no mínimo, dos seguintes documentos; a) histórico escolar, incluindo os resultados do Concurso vestibular b) um exemplar, devidamente autenticado, de cada um dos Programas das disciplinas cursadas, com indicação de duração e carga horária; c) prova de quitação com o serviço militar, quando for o caso; d) atestado de sanidade física e mental; e) comprovante de autorização ou reconhecimento do curso de onde o aluno procede. § 3º – Concedida a transferência, o Colegiado de Curso próprio estabelecerá as condições de matrícula, incluindo, se for o caso, o sistema de recuperação e adaptação. §.4º – Será aceita transferência, independente de vaga, quando se tratar de cônjuge de aluno de pós-graduação.",
+    "chapter": "t6c3",
+    "complexity": "long"
+  },
+  {
+    "question": "Como funcionam os currículos plenos dos cursos de graduação?",
+    "answer": "Os currículos plenos dos cursos de graduação oferecidos pela UFPel compreenderão: I disciplinas do currículo mínimo, que corresponde as matérias consideradas indispensáveis pelo Conselho Federal de Educação, para a habilitação profissional. Estas matérias serão desdobradas em disciplinas, a critério do Colegiado de cada curso, com aprovação do Conselho Coordenador do Ensino e da Pesquisa; II disciplinas complementares tendo em vista as possibilidades dos Departamentos, são, fixadas pelos Colegiados de Curso, com aprovação do Conselho Coordenador do Ensino e da Pesquisa. Têm como finalidade complementar a formação necessária para a graduação do estudante.",
+    "chapter": "t6c4",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como funciona a avaliação do desempenho escolar?",
+    "answer": "A aprovação em cada disciplina é apurada semestralmente e fica condicionada a freqüência do aluno pelo menos 75% (setenta e cinco por cento) das aulas teóricas e 75% (setenta e cinco por cento) das aulas práticas",
+    "chapter": "t6c5",
+    "complexity": "short"
+  },
+  {
+    "question": "Como funciona o exame?",
+    "answer": "O aluno que obtiver média semestral inferior a 7,0 (sete) e igual ou superior a 3,0 (três), submeter-se-á a um exame, versando sobre toda a matéria lecionada no período. § 1º – Considerar-se-á aprovado o aluno que, feito o referido exame, obtiver média igual ou superior a 5 (cinco), resultante da divisão por 2 (dois) da soma da nota semestral com a do exame. § 2º – O não comparecimento ao exame importará em atribuição ao aluno, de nota O (zero).",
+    "chapter": "t6c5",
+    "complexity": "short"
+  },
+  {
+    "question": "O que acontece se precisar de recuperação de aulas?",
+    "answer": "A titulo de recuperação e atendendo solicitação do Colegiado de Curso aprovada pelo COCEP, poderá o Reitor por Portaria, instituir período especial para ministração de aulas de disciplinas de cursos já instituídos, e, nas quais, o índice de aprovação tenha sido inferior a 70′. (setenta por cento). § 1º – A elaboração do Calendário Escolar será feita de modo a possibilitar o direito de 45 (quarenta e cinco) dias de. férias individuais anuais para o pessoal docente. § 2º Entre os períodos letivos regulares serão executados programas do ensino e pesquisa que assegurem o funcionamento contínuo da Universidade.",
+    "chapter": "t6c6",
+    "complexity": "medium"
+  },
+  {
+    "question": "Quais os pontos que o professor deve observar ao orientar o aluno na elaboração do plano de estudo?",
+    "answer": "Ao orientar o aluno na elaboração do plano de estudo para fins de matricula, o professor-orientador dedicará especial atenção aos seguintes pontos: I atendimento aos limites mínimo e máximo de créditos, por período; II cumprimento dos pré e co-requisitos; III compatibilidade de horário das atividades escolares; IV prioridade de matricula para as disciplinas pendentes de semestres anteriores ; V escolha adequada de disciplinas a avançar; VI organização de um currículo coerente. Parágrafo Único – Os quatro primeiros incisos são de cumprimento obrigatório, sendo os demais facultativos.",
+    "chapter": "t6c7",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como é feita a contratação de pessoal administrativo?",
+    "answer": "É Obrigatória a realização de concurso público, para a contratação de pessoal administrativo",
+    "chapter": "t7c1",
+    "complexity": "short"
+  },
+  {
+    "question": "O que é corpo docente",
+    "answer": "Entende-se por corpo docente o conjunto constituído por quantos exerçam atividades de ensino e pesquisa, nos termos do Estatuto e deste Regimento",
+    "chapter": "t7c2",
+    "complexity": "short"
+  },
+  {
+    "question": "O que é corpo docente",
+    "answer": "Entende-se por corpo docente o conjunto constituído por quantos exerçam atividades de ensino e pesquisa, nos termos do Estatuto e deste Regimento",
+    "chapter": "t7c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Como são preenchidos os cargos de magistério superior?",
+    "answer": "Os cargos e funções do magistério superior da Universidade serão preenchidos com observância dos seguintes princípios: ºI os cargos e funções do magistério serão vinculados a campos específicos de conhecimento; II serão considerados em caráter preferencial, para o ingresso nos cargos e funções, os títulos universitários e o teor cientifico dos trabalhos dos candidatos; III o diploma de Doutor, obtido em cursos credenciados ou em concurso público ou em cursos no exterior considerados de excelência pelo Conselho Coordenador do Ensino e da Pesquisa e o título de Docente Livre asseguram o direito inscrição para provimento de qualquer cargo ou função na carreira do magistério; IV durante 3 (três) anos a partir da vigência da Lei nº 6.182, de 11 de dezembro de 1974, poderão inscrever-se para provimento de cargos ou empregos de Professor Assistente os candidatos que, não dispondo título de Mestre, contém, pelo menos, 3(três) anos de estágio probatório como Auxiliar de Ensino. Decorrido o prazo acima, será exigido dos candidatos as funções de Professor Assistente o curso de aperfeiçoamento ou especialização, constituindo títulos preferenciais o diploma de Mestre e o estágio probatório de 2 (dois) anos. Após 6 (seis) anos da data de aprovação do presente Regimento pelo Conselho Federal de Educação, será exigido, para. o concurso de professor, o título de Mestre obtido em curso credenciado. V o provimento de cargos e empregos da classe de Professor Adjunto far-se-á no limite de até 50% (cinqüenta por cento) das vagas para ingresso mediante concurso público de e provas, observada a legislação vigente. E, nas vagas restantes, por progressão funcional, observada, quanto a estes últimos, a titulação de Mestre ou, preferencialmente, de Doutor. VI a admissão no cargo de Professor titular será feita mediante concurso público de títulos e provas, aberto aos professores adjuntos e aos portadores de diploma de Doutor, obtido em curso credenciado, ou livre Docente; VII o Auxiliar de Ensino, com o título de Doutor, perceberá como professor assistente, obrigando-se à inscrição no concurso imediato que se realizar, na sua área de: VIII o professor assistente, com o título de Doutor, perceberá como professor adjunto, até a realização de concurso em sua área de conhecimento, observadas as prescrições legais.",
+    "chapter": "t7c2",
+    "complexity": "long"
+  },
+  {
+    "question": "Quais as funções do pessoal técnico e administrativo?",
+    "answer": "As atividades não especificamente relacionadas com o ensino e a pesquisa serão desempenhadas por pessoal técnico e administrativo de diversas categorias profissionais",
+    "chapter": "t7c3",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais as exigências para um professor assistente?",
+    "answer": "No ato de inscrição, o candidato apresentara, além de satisfazer outras exigências legais, estatutárias ou regimentais: I diploma de curso superior no qual figure a área de conhecimento em concurso; II prova de haver satisfeito integralmente o disposto no inciso IV do artigo 222 deste Regimento; III certificado de sanidade física e mental expedido por junta médica oficial da Universidade; IV prova de ser brasileiro nato ou naturalizado; V atestado de idoneidade moral, firmado por 2 (dois) professores universitários; VI relação documentada de seus títulos e trabalhos publicados; VII prova de quitação com o serviço militar no caso de candidato do sexo masculino; VIII certidão negativa da Justiça Federal e da Justiça Estadual; IX título de eleitor; X recibo de pagamento da taxa de inscrição.",
+    "chapter": "t8c1",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como será composta a comissão examinadora do concurso para professor assistente?",
+    "answer": "A Comissão Examinadora do concurso para provimento do cargo de professor assistente será constituída de 3 (três) professores, podendo um ser de idêntica categoria da vaga a preencher e os outros dois obrigatoriamente de categoria superior indicados pelo Departamento com o parecer do Conselho Departamental, aprovados pelo Conselho Coordenador do Ensino o da Pesquisa e nomeados pelo Reitor.",
+    "chapter": "t8c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais são os graus acadêmicos?",
+    "answer": "São graus acadêmicos: I título de Livre-Docente; II diploma de Doutor; III diploma de Mestre; IV diplomas de graduação em cursos superiores.",
+    "chapter": "t8c3",
+    "complexity": "short"
+  },
+  {
+    "question": "Como funciona o concurso para professor assistente?",
+    "answer": "O Concurso constará de: I exame de títulos; II prova didática; III realização de uma prova prática ou escrita, mediante aprovação do Departamento, homologada pelo Conselho Departamental e pelo Conselho Coordenador do Ensino e da Pesquisa. Parágrafo Único – Com a aprovação do Departamento, homologada pelo Conselho Coordenador do Ensino e da Pesquisa, poderá incluir-se uma prova de entrevista.",
+    "chapter": "t8c4",
+    "complexity": "short"
+  },
+  {
+    "question": "Como funciona a prova didática para professor assistente?",
+    "answer": "Do programa publicado no Edital, a Comissão Examinadora extrairá uma lista de 10 (dez) assuntos, que será apresentada ao candidato logo após a sua elaboração e imediatamente sorteado um assunto sobre o qual versará a prova, que será realizada 24 (vinte e quatro) horas após. § 1º – Logo após o sorteio do assunto, o candidato deverá fazer sua escolha sobre a modalidade da prova. § 2º – Se em forma de aula, a prova terá duração de 40 (quarenta) a 50 (cinqüenta) minutos. § 3º – No caso de substituir-se a aula por seminário este não poderá exceder de 3 (três) horas, ficando a cargo do candidato a escolha dos participantes, cujo numero não poderá, ser inferior a 4 (quatro). § 4º – Ao inicio da prova o candidato submeterá a Comissão Examinadora o plano de aula ou do seminário, assim como a nominata dos participantes. § 5º – No caso de mais de um candidato, os restantes permanecerão incomunicáveis em saia reservada.",
+    "chapter": "t8c5",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como funciona a prova escrita para professor assistente?",
+    "answer": "A prova escrita versará sobre um ponto sorteado da lista de 10 (dez) assuntos do programa de concurso constante do Edital e visará aferir o conhecimento do candidato sobre o tema proposto, bem como sua capacidade para organizar seu ensino.",
+    "chapter": "t8c6",
+    "complexity": "short"
+  },
+  {
+    "question": "Como funciona a prova prática para professor assistente?",
+    "answer": "A Comissão do concurso organizara uma lista de 10(dez) assuntos para a prova prática, e, em seguida, admitirá no local os candidatos",
+    "chapter": "t8c7",
+    "complexity": "short"
+  },
+  {
+    "question": "O que é necessário para ser professor adjunto?",
+    "answer": "O cargo de Professor Adjunto será provido mediante Concurso Público de Títulos e Provas, a que poderão candidatar-se professores assistentes concursados, os restruturados e os reenquadrados pelos Decretos nº 60.906, de 28/06167, 65.878, de 16/12/69 e decreto-lei nº 465, de II.02.69, e os portadores de diploma de Doutor , obtido em concurso à livre-docência ou conferido por curso credenciado Pelo Conselho Federal de Educação ou considerado centro de excelência, pelo Conselho Nacional de Pesquisa, ou ainda, em cursos estrangeiros idôneos, a juízo do Conselho Coordenador do Ensino e da Pesquisa, observado o disposto no inciso V do artigo 222 deste Regimento.§ 1º – Ao concurso referido neste artigo, serão aplicadas as determinações do Titulo VIII deste Regimento, com as alterações do presente Título. § 2º – Considera -se título válido a atividade administrativa exercida em qualquer órgão universitário e que implique em função executiva , normativa deliberativa ou consultiva.§ 3º – No julgamento desses títulos, serão levados em conta o conceito da instituição universitária em que a atividade se processou, sua hierarquia e duração.",
+    "chapter": "t9c1",
+    "complexity": "medium"
+  },
+  {
+    "question": "Como funciona o concurso para professor titular?",
+    "answer": "O concurso constará de: I exame de títulos – peso 5 (cinco); II defesa de tese – peso 2 (dois); III prova didática – peso 2 (dois); IV realização de uma ou mais das seguintes provas, mediante aprovação do Departamento, referendada pelo Conselho Departamental e aprovada pelo COCEP, consideradas as peculiaridades de área: a) prova prática ou escrita; b) prova de entrevista.",
+    "chapter": "t9c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Como são concedidas as bolsas de estudo?",
+    "answer": "Aos alunos que demonstrarem efetivo aproveitamento e provarem a carência ou insuficiência de recursos, serão concedidas bolsas de estudo, na medida das disponibilidades orçamentárias, na forma da legislação em vigor.",
+    "chapter": "t12c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Quem administra o patrimônio da faculdade?",
+    "answer": "Aos alunos que demonstrarem efetivo aproveitamento e provarem a carência ou insuficiência de recursos, serão concedidas bolsas de estudo, na medida das disponibilidades orçamentárias, na forma da legislação em vigor.",
+    "chapter": "t13c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Quais são os recursos financeiros?",
+    "answer": "São recursos financeiros: I as dotações consignadas obrigatoriamente em cada exercício financeiro, no Orçamento da União; II as dotações que, a qualquer título, forem destinadas no, orçamentos dos Estados, Distrito Federal, territórios e municípios; III as dotações e ajudas financeiras de qualquer origem; IV o produto de financiamento e empréstimo; V as dotações e contribuições oriundas de convênios, acordos ou contratos, celebrados com pessoas naturais ou jurídicas, entidades públicas e privadas, nacionais, estrangeiras ou multinacionais ; VI os saldos de exercícios financeiros encerrados; VII as rendas e aplicação de bens e valores patrimoniais; VIII as rendas de sua atividade educacional, industrial, de prestação de serviços ou assistência; IX anuidades, taxas e outros emolumentos, resultantes de inscrições, matriculas e freqüências; X os fundos especiais; XI contribuições, taxas e emolumentos; XII as rendas eventuais de qualquer natureza.",
+    "chapter": "t13c2",
+    "complexity": "medium"
+  },
+  {
+    "question": "A quem cabe fazer a prestação anual de contas?",
+    "answer": "A Reitoria caberá fazer a prestação anual de contas ao Conselho Diretor da Fundação e ao Ministério da Educação e Cultura, para posterior apreciação pelo Tribunal de Contas da União. Parágrafo Único – A Reitoria poderá contratar serviços especializados para trabalhos de auditoria interna.",
+    "chapter": "t13c2",
+    "complexity": "short"
+  },
+  {
+    "question": "Em que casos será aplicada a pena de advertência para o corpo docente?",
+    "answer": "A pena de advertência será aplicada nos seguintes casos: I negligência no exercício da função; II descumprimento das determinações e instruções dos órgãos da administração da Universidade a que esteja subordinado o infrator; III prática de ato reprovável. Parágrafo Único – A advertência será feita verbalmente ou por escrito, sempre de forma reservada.",
+    "chapter": "t14c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Em que casos será aplicada a pena de advertência para o corpo discente?",
+    "answer": "As sanções previstas no artigo anterior serão aplicadas nos seguintes casos: I Advertência: a) por desrespeito ou desobediência ao Reitor, ao vice-reitor. aos Pró-Reitores, ao Diretor de Unidade, ao Chefe de Departamento, a qualquer membro do corpo docente, autoridade, funcionário ou servidor da Universidade; b) perturbação da ordem em área sob a jurisdição da Universidade; c) por dano material causado ao patrimônio da Universidade, sem prejuízo da obrigação de ressarcimento. II Repreensão: a) por reincidência em qualquer das faltas capituladas nas alíneas anteriores; b) por ofensas ou agressão a outro aluno; c) porte de arma de qualquer natureza; III Suspensão de atividades escolares: a) em caso de reincidência em qualquer das faltas capituladas nos itens anteriores; b) por improbidade na execução de trabalhos escolares; c) por divulgação ou fixação de cartazes, documentos, publicações ou faixas ofensivas a autoridades, pessoas ou instituições nacionais ou estrangeiras; d) por convocação ou realização de reuniões do corpo discente no recinto da Unidade, sem autorização prévia do Diretor; e) por ofensa moral ao Reitor, ao vice-reitor, aos Pró-Reitores, ao Diretor de Unidade, ao Chefe de Departamento, a qualquer membro do corpo docente, autoridade, funcionário ou servidor da Universidade. IV Exclusão: a) pela prática de atos incompatíveis com a moralidade ou a dignidade da vida universitária, b) por desacato ao Reitor, ao vice-reitor, aos Pró-Reitores, ao Diretor de Unidade, ao Chefe de Departamento, a qualquer membro do corpo docente, autoridade, funcionário ou servidor da Universidade; c) por prática de atos atentatórios à ordem pública ou à segurança nacional, nos termos da lei; d) por condenação definitiva em juízo criminal, por crime incompatível com a dignidade da vida universitária.",
+    "chapter": "t14c2",
+    "complexity": "long"
+  },
+  {
+    "question": "Quais os títulos e dignidades universitárias?",
+    "answer": "Haverá os seguintes títulos e dignidades universitárias: I Doutor “Honoris Causa”, destinado a personalidades que se hajam distinguido pelos relevantes serviços prestados a causa da educação e dos princípios fundamentais da nacionalidade; II Professor “Honoris Causa”, destinado a professores e cientistas insignes, alheios à Universidade, que tenham contribuído para o desenvolvimento do ensino e pesquisa; III Professor Emérito, destinado aos professores aposentados que tenham, alcançado posição eminente na Universidade; IV Medalha do Mérito Universitário, destinada a premiar quantos, dentro ou fora da Universidade, se tenham salientado por relevantes serviços prestados à instituição ou aos órgãos de que se originou; V Medalha do Mérito Administrativo, para seus ,funcionários que se houverem distinguido por relevantes serviços prestados no exercício de suas funções; VI Colar da Universidade, que acompanhará a concessão do título de Professor “Honoris Causa” e Doutor “Honoris Causa”; VII Grande Colar da Universidade, destinado aos professores da Universidade que se hajam distinguido na causa da educação ou em grandes serviços prestados a Nação.",
+    "chapter": "t15c1",
+    "complexity": "medium"
+  },
+  {
+    "question": "Há um estímulo para a solidariedade universitária?",
+    "answer": "A Universidade estimulará a solidariedade universitária, desenvolvendo a assistência social, autorizando a criação e funcionamento das entidades que congregam os que nela trabalhar, ou estudam, bem. como os egressos de seus quadros ou de seus cursos.",
+    "chapter": "t16c1",
+    "complexity": "short"
+  },
+  {
+    "question": "Como funciona o intercâmbio com outras instituições?",
+    "answer": "A Universidade articular-se-á com instituições nacionais, estrangeiras, internacionais e multinacionais, para o intercâmbio de professores e outros propósitos relacionados com os seus objetivos e funções.",
+    "chapter": "t17c1",
+    "complexity": "short"
+  }
+]
